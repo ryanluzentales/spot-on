@@ -1,1 +1,2 @@
-# web-apple-ciders-final-project
+#RUN USING EXPO
+#dont forget to run npm install 
